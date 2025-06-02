@@ -1,4 +1,4 @@
-## Yoon Kim
+# Yoon Kim
 ### Education
 - `2021.07-2021.12` 클라우드 보안 전문가 양성 과정
 - `2024.07-2025.06` 삼성 청년 SW 아카데미
@@ -28,10 +28,7 @@
 - 인원 : 6인
 - 기간  : 2025.01.13 - 2025.02.21 
 
-
-
-
-    <div style="text-align: left;">
+<div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
   <h3>Backend</h3>
   <div>
@@ -61,18 +58,12 @@
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   </div>
 </div>
-    <div style="text-align: left;">
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📊 GitHub Status</h2> <br>
-    <div style="text-align: left;">
-      <img src="https://github-readme-stats.vercel.app/api?username=yooniqlo-kim&show_icons=true&theme=default" alt="Yoon's GitHub Stats">
-    </div>
-    </div>
-      <div style="text-align: left;">
-      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Baekjoon Status</h2> <br>
-    <div style="text-align: left;">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon733" alt="Yoon's GitHub Stats">
-    </div>
-    </div>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Baekjoon Status</h2> <br>
+<div style="text-align: left;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon733" alt="Yoon's GitHub Stats">
+</div>
+</div>
 
 
   
